@@ -1,2 +1,2 @@
 # Destroytheworld
-I want to build an app that destroy 
+print("This is a heading")
